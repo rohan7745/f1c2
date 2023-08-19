@@ -1,0 +1,147 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    text-decoration: none;
+
+
+}
+.navbar{
+    background: black; 
+    font-family: Arial, Helvetica, sans-serif;
+    padding-right: 20px;padding-left: 20px;
+}
+.navdiv{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    color: white;
+
+}
+.logo a{
+    font-size: 25px;
+    font-weight: 300;
+    color: white;
+
+}
+li{
+    list-style: none;
+    display: inline-block;
+}
+li a{
+
+    font-size: 18px;
+    font-weight: bold;
+    margin-right: 35px;
+    color: white;
+    
+}
+.table-container{
+    height: 600px;
+    width: 700px;
+    border: 1px solid #ddd;
+    display: grid;
+    place-items: center;
+    margin-left: 350px;
+}
+
+.heading{
+    height: 25px;
+    width: 400px;
+    text-align: left;
+}
+.heading-1{
+    width: 80px;
+}
+.heading-2{
+    width: 180px;
+}
+.heading-3{
+    width: 120px;
+}
+.heading-4{
+    width: 80px;
+
+}
+.heading-5{
+    width: 120px;
+}
+.td{
+    height: 150px;
+}
+.cap{
+    font-weight: bold;
+    font-size: 30px;
+}
+.register{
+    height: 600px;
+    width: 700px;
+    border: 1px solid #ddd;
+    display: grid;
+    place-items: center;
+    margin-top: 20px;
+    margin-left: 350px;
+}
+h2{
+    text-align: left;
+    margin-right: 520px;
+    margin-top: 50px;
+}
+#first{
+    margin-top: 10px;
+   
+   margin-right:0px;
+   
+}
+#first1{
+    margin-top: 20px;
+   
+   margin-right: 490px;
+   
+}
+#button{
+    background-color: black;
+    color: white;
+    text-align: center;
+    size: 200;
+    margin-top: 10px;
+    width: 580px;
+    height: 30px;
+
+}
+#first2{
+    margin-top: 20px;
+   
+    margin-right: 520px;
+    
+ }
+#first3{
+    margin-top: 20px;
+   
+    margin-right: 520px;
+}
+#first5{
+    margin-top: 20px;
+   
+   margin-right: 430px;
+}
+#first4{
+    margin-top: 20px;
+   
+    margin-right:490px;
+}
+#first6{
+    margin-top: 20px;
+   
+    margin-right:470px;
+}
+#first8{
+    width: 80%;
+}
+
+a:hover {
+    color: aqua;
+}
+li.navitem a:hover{
+    color: aqua;
+}
+
